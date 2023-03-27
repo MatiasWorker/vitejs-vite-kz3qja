@@ -1,0 +1,11 @@
+.Card {
+  width: 320px;
+  display: grid;
+  padding: 1rem;
+  gap: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: rgb(255, 255, 255);
+  background: black;
+  border-radius: 1rem;
+  text-align: left;
+}
